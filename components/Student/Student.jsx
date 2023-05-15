@@ -17,7 +17,7 @@ const Student = () => {
                      <DownloadProgressbtn className="w-full" />
                   </div>
                </div>
-               <div className="flex flex-col h-full w-full pr-10 pl-4">
+               <div className="flex flex-col h-full w-full pr-10 pl-4 py-14">
                   <Courses />
                </div>
             </div>
